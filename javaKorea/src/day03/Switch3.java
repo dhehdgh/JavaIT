@@ -12,7 +12,7 @@ public class Switch3 {
 		
 		int year;
 		int month;
-		int day;
+		int day = 0;
 		Scanner sc = new Scanner(System.in);
 		System.out.println("해당 년도를 입력하세요>>");
 		year = sc.nextInt();
@@ -45,7 +45,7 @@ public class Switch3 {
 		default:
 			System.out.println(" 해당 월은 없습니다.");
 		}
-		System.out.println(year+"년 "+month+"월은 "+ day);
+		System.out.println(year+"년 "+month+"월은 "+ day+"일 입니다.");
 		
 		
 	}
