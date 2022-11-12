@@ -24,7 +24,7 @@ public class Review {
 		//대입시 유의사항
 		변수4=변수1;		//오른쪽에 있는 것은 값사용, 왼쪽에 있는 것은 공간
 		
-		
+		System.out.println(변수4);
 		//연산자
 		//== 같다
 		System.out.println(변수1 == 변수4);

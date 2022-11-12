@@ -18,13 +18,13 @@ public class While3 {
 		
 		int a = 0;
 		int sum = 0;
-		while (a<=50) {
+		while (a<=10) {
 			sum += a;
 			a++;
-			
 		}
 		System.out.println(sum);
 		//1~50까지 합 구하기 1275
+		
 		
 		
 		
