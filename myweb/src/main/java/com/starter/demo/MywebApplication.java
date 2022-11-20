@@ -8,7 +8,7 @@ public class MywebApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MywebApplication.class, args);
-		System.out.println("ㄴㄹ");
+		System.out.println("웹 실행 완료");
 	}
 
 }
