@@ -27,5 +27,7 @@ class MyRandom3{
 		System.out.println(result);
 		
 		
+		
+		
 	}
 }
